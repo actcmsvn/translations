@@ -3,19 +3,18 @@
 return [
     'form' => [
         'name' => 'Tên',
-        'name_placeholder' => 'Tên thẻ (Tối đa 120 kí tự)',
+        'name_placeholder' => 'Tên thẻ (tối đa 120 ký tự)',
         'description' => 'Mô tả',
-        'description_placeholder' => 'Mô tả ngắn cho tag (Tối đa 400 kí tự)',
-        'categories' => 'Chuyên mục',
+        'description_placeholder' => 'Mô tả ngắn cho thẻ (tối đa 400 ký tự)',
+        'categories' => 'Danh mục',
     ],
     'notices' => [
-        'no_select' => 'Chọn ít nhất 1 bài viết để thực hiện hành động này!',
+        'no_select' => 'Vui lòng chọn ít nhất một thẻ để tiếp tục',
     ],
-    'create' => 'Thêm thẻ mới',
-    'cannot_delete' => 'Không thể xóa thẻ',
-    'deleted' => 'Xóa thẻ thành công',
+    'create' => 'Tạo thẻ mới',
+    'cannot_delete' => 'Không thể xóa thẻ',
+    'deleted' => 'Đã xóa thẻ',
     'menu' => 'Thẻ',
-    'edit_this_tag' => 'Sửa thẻ này',
+    'edit_this_tag' => 'Chỉnh sửa thẻ này',
     'menu_name' => 'Thẻ',
-    'edit' => 'Sửa thẻ',
 ];

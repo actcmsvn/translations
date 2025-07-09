@@ -29,7 +29,7 @@ return [
     'folder_name' => 'Tên thư mục',
     'create' => 'Tạo',
     'rename' => 'Đổi tên',
-    'crop' => 'Mùa vụ',
+    'crop' => 'Cắt ảnh',
     'close' => 'Đóng',
     'save_changes' => 'Lưu thay đổi',
     'move_to_trash' => 'Đưa vào thùng rác',
@@ -125,14 +125,14 @@ return [
         'actions_list' => [
             'basic' => [
                 'preview' => 'Xem trước',
-                'crop' => 'Mùa vụ',
+                'crop' => 'Cắt ảnh',
             ],
             'file' => [
                 'copy_link' => 'Sao chép đường dẫn',
                 'rename' => 'Đổi tên',
                 'make_copy' => 'Nhân bản',
                 'copy_indirect_link' => 'Sao chép liên kết gián tiếp',
-                'alt_text' => 'văn bản ALT',
+                'alt_text' => 'Văn bản thay thế (Alt)',
                 'share' => 'Chia sẻ',
             ],
             'user' => [
@@ -144,7 +144,7 @@ return [
                 'trash' => 'Chuyển vào thùng rác',
                 'delete' => 'Xóa hoàn toàn',
                 'restore' => 'Khôi phục',
-                'properties' => 'Của cải',
+                'properties' => 'Thuộc tính',
             ],
         ],
         'alt' => 'Văn bản thay thế',
@@ -179,7 +179,7 @@ return [
     'rename_physical_file' => 'Đổi tên tên tập tin vật lý trên đĩa',
     'rename_physical_file_warning' => 'Tùy chọn này cũng sẽ đổi tên tên tệp vật lý trên đĩa. Nó có thể gây ra các liên kết bị hỏng nếu bạn đang sử dụng tệp này ở nơi khác.',
     'properties' => [
-        'name' => 'Của cải',
+        'name' => 'Thuộc tính',
         'color_label' => 'Chọn màu cho thư mục này',
     ],
     'update_properties_success' => 'Cập nhật thuộc tính thành công!',
@@ -188,6 +188,6 @@ return [
     'share_as_url' => 'URL',
     'share_as_indirect_url' => 'URL gián tiếp',
     'share_as_html' => 'HTML',
-    'share_as_markdown' => 'Giảm giá',
+    'share_as_markdown' => 'Markdown',
     'share_results' => 'Chia sẻ kết quả',
 ];
