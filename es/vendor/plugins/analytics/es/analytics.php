@@ -37,7 +37,7 @@ return [
     'missing_library_warning' => 'Error del complemento de análisis: faltan bibliotecas de terceros; ejecute la "actualización del compositor" para instalarlas.',
     'browser' => 'Navegador',
     'url' => 'URL',
-    'view_id_not_specified' => 'Debe proporcionar una identificación  válida. Ver guía: <a href="https://docs.botble.com/cms/:version/plugin-analytics" target="_blank">https://docs.botble.com/cms/:version/plugin-analytics</a>',
-    'credential_is_not_valid' => 'Las credenciales de Analytics no son válidas. La guía de configuración está aquí:  <a href="https://docs.botble.com/cms/:version/plugin-analytics" target="_blank">https://docs.botble.com/cms/:version/plugin-analytics</a>',
-    'wrong_configuration' => 'Para ver las estadísticas, deberá obtener una ID en Google Analytics y agregarla a su configuración.  <br /> También necesita datos de credenciales JSON. <br /> La documentación la puede encontrar aquí: <a href="https://docs.botble.com/cms/:version/plugin-analytics" target="_blank">https://docs.botble.com/cms/:version/plugin-analytics</a>',
+    'view_id_not_specified' => 'Debe proporcionar una identificación  válida. Ver guía: <a href="https://docs.actcmsvn.com/cms/:version/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/:version/plugin-analytics</a>',
+    'credential_is_not_valid' => 'Las credenciales de Analytics no son válidas. La guía de configuración está aquí:  <a href="https://docs.actcmsvn.com/cms/:version/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/:version/plugin-analytics</a>',
+    'wrong_configuration' => 'Para ver las estadísticas, deberá obtener una ID en Google Analytics y agregarla a su configuración.  <br /> También necesita datos de credenciales JSON. <br /> La documentación la puede encontrar aquí: <a href="https://docs.actcmsvn.com/cms/:version/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/:version/plugin-analytics</a>',
 ];

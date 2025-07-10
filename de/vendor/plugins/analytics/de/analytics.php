@@ -37,7 +37,7 @@ return [
     'missing_library_warning' => 'Analytics-Plugin-Fehler: Fehlende Bibliotheken von Drittanbietern. Bitte führen Sie "Composer Update" aus, um sie zu installieren.',
     'browser' => 'Browser',
     'url' => 'URL',
-    'view_id_not_specified' => 'You must provide a valid view id. The document here: <a href="https://docs.botble.com/cms/master/plugin-analytics" target="_blank">https://docs.botble.com/cms/master/plugin-analytics</a>',
-    'credential_is_not_valid' => 'Analytics credentials is not valid. The document here: <a href="https://docs.botble.com/cms/master/plugin-analytics" target="_blank">https://docs.botble.com/cms/master/plugin-analytics</a>',
-    'wrong_configuration' => 'To view analytics you\'ll need to get a google analytics client id and add it to your settings. <br /> You also need JSON credential data. <br /> The document here: <a href="https://docs.botble.com/cms/master/plugin-analytics" target="_blank">https://docs.botble.com/cms/master/plugin-analytics</a>',
+    'view_id_not_specified' => 'You must provide a valid view id. The document here: <a href="https://docs.actcmsvn.com/cms/master/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/master/plugin-analytics</a>',
+    'credential_is_not_valid' => 'Analytics credentials is not valid. The document here: <a href="https://docs.actcmsvn.com/cms/master/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/master/plugin-analytics</a>',
+    'wrong_configuration' => 'To view analytics you\'ll need to get a google analytics client id and add it to your settings. <br /> You also need JSON credential data. <br /> The document here: <a href="https://docs.actcmsvn.com/cms/master/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/master/plugin-analytics</a>',
 ];

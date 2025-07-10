@@ -5,7 +5,7 @@ return [
     '404_title' => 'لا يمكن العثور على الصفحة',
     '500_title' => 'لا يمكن تحميل الصفحة',
     'reasons' => 'ربما حدث هذا بسبب عدة أسباب',
-    'try_again' => 'Please try again in a few minutes, or alternatively return to the homepage by <a href="http://martfury.local/admin">clicking here</a>.',
+    'try_again' => 'Please try again in a few minutes, or alternatively return to the homepage by <a href="http://actshop.local/admin">clicking here</a>.',
     'not_found' => 'غير معثور عليه',
     'results_not_found' => 'لم يتم العثور على النتائج!',
     'go_to_home' => 'اذهب إلى المنزل',

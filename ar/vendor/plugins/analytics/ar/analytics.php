@@ -37,7 +37,7 @@ return [
     'missing_library_warning' => 'خطأ في البرنامج الإضافي لـ Analytics: مكتبات الجهات الخارجية مفقودة، يرجى تشغيل "تحديث الملحن" لتثبيتها.',
     'browser' => 'المتصفح',
     'url' => 'عنوان URL',
-    'view_id_not_specified' => 'You must provide a valid view id. The document here: <a href="https://docs.botble.com/cms/:version/plugin-analytics" target="_blank">https://docs.botble.com/cms/:version/plugin-analytics</a>',
-    'credential_is_not_valid' => 'Analytics credentials is not valid. The document here: <a href="https://docs.botble.com/cms/:version/plugin-analytics" target="_blank">https://docs.botble.com/cms/:version/plugin-analytics</a>',
-    'wrong_configuration' => 'To view analytics you\'ll need to get a google analytics client id and add it to your settings. <br /> You also need JSON credential data. <br /> The document here: <a href="https://docs.botble.com/cms/:version/plugin-analytics" target="_blank">https://docs.botble.com/cms/:version/plugin-analytics</a>',
+    'view_id_not_specified' => 'You must provide a valid view id. The document here: <a href="https://docs.actcmsvn.com/cms/:version/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/:version/plugin-analytics</a>',
+    'credential_is_not_valid' => 'Analytics credentials is not valid. The document here: <a href="https://docs.actcmsvn.com/cms/:version/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/:version/plugin-analytics</a>',
+    'wrong_configuration' => 'To view analytics you\'ll need to get a google analytics client id and add it to your settings. <br /> You also need JSON credential data. <br /> The document here: <a href="https://docs.actcmsvn.com/cms/:version/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/:version/plugin-analytics</a>',
 ];
