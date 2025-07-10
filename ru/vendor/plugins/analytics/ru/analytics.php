@@ -11,10 +11,10 @@ return [
     'new_users' => 'Новые посетители',
     'visits' => 'посещает',
     'views' => 'просмотров',
-    'view_id_not_specified' => 'Вы должны указать действительный идентификатор представления. Документ здесь: <a href="https://docs.botble.com/cms/master/plugin-analytics" target="_blank">https://docs.botble.com/cms/master/plugin-analytics</a>',
-    'credential_is_not_valid' => 'Учетные данные аналитика не действительны. Документ здесь: <a href="https://docs.botble.com/cms/master/plugin-analytics" target="_blank">https://docs.botble.com/cms/master/plugin-analytics</a>',
+    'view_id_not_specified' => 'Вы должны указать действительный идентификатор представления. Документ здесь: <a href="https://docs.actcmsvn.com/cms/master/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/master/plugin-analytics</a>',
+    'credential_is_not_valid' => 'Учетные данные аналитика не действительны. Документ здесь: <a href="https://docs.actcmsvn.com/cms/master/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/master/plugin-analytics</a>',
     'start_date_can_not_before_end_date' => 'Дата начала :start_date не может быть после даты окончания :end_date',
-    'wrong_configuration' => 'Для просмотра аналитики вам нужно получить идентификатор клиента google analytics и добавить его в настройки. <br /> Вам также понадобятся учетные данные в формате JSON. <br /> Документ здесь: <a href="https://docs.botble.com/cms/master/plugin-analytics" target="_blank">https://docs.botble.com/cms/master/plugin-analytics</a>',
+    'wrong_configuration' => 'Для просмотра аналитики вам нужно получить идентификатор клиента google analytics и добавить его в настройки. <br /> Вам также понадобятся учетные данные в формате JSON. <br /> Документ здесь: <a href="https://docs.actcmsvn.com/cms/master/plugin-analytics" target="_blank">https://docs.actcmsvn.com/cms/master/plugin-analytics</a>',
     'settings' => [
         'title' => 'Google Analytics',
         'description' => 'Настройка учетных данных для Google Analytics',
